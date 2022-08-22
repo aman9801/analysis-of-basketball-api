@@ -1,2 +1,4 @@
 # analysis-of-basketball-api
-Analysis of Basketball API and showing the results on a webpage using Flask
+
+### Problem Statement:
+- Create a basketball themed website in Python and Flask that uses data from https://www.balldontlie.io/#introduction and performs an analysis.
